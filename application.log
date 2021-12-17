@@ -1,0 +1,7 @@
+2020-12-24 03:49:07.826  INFO 18764 --- [restartedMain] c.c.a.AddressBookSpringApplication       : Starting AddressBookSpringApplication using Java 14.0.2 on DESKTOP-Q5SED1R with PID 18764 (D:\Capgemini_java_training\AddressBookSpring\target\classes started by krove in D:\Capgemini_java_training\AddressBookSpring)
+2020-12-24 03:49:07.833 DEBUG 18764 --- [restartedMain] c.c.a.AddressBookSpringApplication       : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-24 03:49:07.834  INFO 18764 --- [restartedMain] c.c.a.AddressBookSpringApplication       : No active profile set, falling back to default profiles: default
+2020-12-24 03:49:14.118  WARN 18764 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-12-24 03:49:14.880  INFO 18764 --- [restartedMain] c.c.a.AddressBookSpringApplication       : Started AddressBookSpringApplication in 7.85 seconds (JVM running for 9.619)
+2020-12-24 03:49:14.886  INFO 18764 --- [restartedMain] c.c.a.AddressBookSpringApplication       : AddressBook Application Started in COMMON  Environment
+2020-12-24 03:49:14.889  INFO 18764 --- [restartedMain] c.c.a.AddressBookSpringApplication       : AddressBook DB User is root Environment
